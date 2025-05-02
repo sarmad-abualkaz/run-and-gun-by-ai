@@ -29,8 +29,8 @@ A retro-style run-and-gun platformer game inspired by classic titles like Contra
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
-cd game-for-friedai
+git clone https://github.com/sarmad-abualkaz/run-and-gun-by-ai.git
+cd run-and-gun-by-ai
 ```
 
 2. Install dependencies
